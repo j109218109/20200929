@@ -17,7 +17,19 @@ __This text will be bold__
 
 1. Item 1
    * Item 1.1
-
+     ```Python
+        >>> x
+        Traceback (most recent call last):
+        File "<stdin>", line 1, in <module>
+        NameError: name 'x' is not defined
+        >>> x = 10
+        >>> x
+        10
+        >>> x = 'Justin'
+        >>> x
+        'Justin'
+        >>>
+     ```
    * Item 1.2
   
 2. Item 2
@@ -50,16 +62,4 @@ public class MultiplyTwoNumbers {
 }
 ```
 
-```Python
->>> x
-Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
-NameError: name 'x' is not defined
->>> x = 10
->>> x
-10
->>> x = 'Justin'
->>> x
-'Justin'
->>>
-```
+
