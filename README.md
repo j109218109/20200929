@@ -8,6 +8,7 @@
 |:-------|:----:|
 |*This text will be italic*|**This text will be bold**|
 |_This text will be italic_|__This text will be bold__|
+| |
 
 *This is **a** test*
 
