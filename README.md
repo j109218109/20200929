@@ -48,7 +48,9 @@ __This text will be bold__
          }
      ```
 2. Item 2
-   * Item 2.1
+   * Item 2.1 
+     - [x] 非常塞車
+     - [ ] 晚餐吃了
    * Item 2.2
  
  ![Google](googlelogo_color_272x92dp.png "Google")
@@ -58,8 +60,7 @@ __This text will be bold__
  >We're living the future so 
  >the present is our past
  
-- [x] 非常塞車
-- [ ] 晚餐吃了
+
 
 
 
