@@ -17,20 +17,7 @@ __This text will be bold__
 
 1. Item 1
    * Item 1.1
-   ``` Java
-public class MultiplyTwoNumbers {
 
-    public static void main(String[] args) {
-
-        float first = 1.5f;
-        float second = 2.0f;
-
-        float product = first * second;
-
-        System.out.println("The product is: " + product);
-    }
-}
-```
    * Item 1.2
   
 2. Item 2
@@ -48,4 +35,17 @@ public class MultiplyTwoNumbers {
 - [ ] 晚餐吃了
 
 
+``` Java
+public class MultiplyTwoNumbers {
 
+    public static void main(String[] args) {
+
+        float first = 1.5f;
+        float second = 2.0f;
+
+        float product = first * second;
+
+        System.out.println("The product is: " + product);
+    }
+}
+```
