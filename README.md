@@ -4,14 +4,10 @@
 #### 字體大小
 ##### 套入
 ###### 其他指令裡
-
-*This text will be italic* 
-
-_This text will be italic_
-
-**This text will be bold**
-
-__This text will be bold__
+|Left|Mid|
+|:-------|:----:|
+|*This text will be italic*|**This text will be bold**|
+|_This text will be italic_|__This text will be bold__|
 
 *This is **a** test*
 
