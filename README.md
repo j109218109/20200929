@@ -44,7 +44,7 @@ __This text will be bold__
          float product = first * second;
 
          System.out.println("The product is: " + product);
-            }
+           }
          }
      ```
 2. Item 2
@@ -56,11 +56,12 @@ __This text will be bold__
 
  
  ![Google](googlelogo_color_272x92dp.png "Google")
- \*As Kayne West said\*
+ 
+# \*As Kayne West said\*
  
  >We're living the future so 
  >the present is our past
- 
+# 
 
 
 
