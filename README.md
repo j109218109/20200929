@@ -22,4 +22,5 @@ __This text will be bold__
 2. Item 2
    * Item 2.1
    * Item 2.2
-  
+ 
+ ![Google](googlelogo_color_272x92dp.png)
