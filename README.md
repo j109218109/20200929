@@ -14,3 +14,12 @@ _This text will be italic_
 __This text will be bold__
 
 *This is **a** test*
+
+1. Item 1
+  * Item 1.1
+  * Item 1.2
+  
+2. Item 2
+  * Item 2.1
+  * Item 2.2
+  
