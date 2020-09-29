@@ -23,7 +23,7 @@ __This text will be bold__
    * Item 2.1
    * Item 2.2
  
- ![Google](googlelogo_color_272x92dp.png"Google")
+ ![Google](googlelogo_color_272x92dp.png "Google")
  
  \*As Kayne West said\*
  
