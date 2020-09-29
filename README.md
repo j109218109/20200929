@@ -15,8 +15,8 @@ __This text will be bold__
 
 *This is **a** test*
 
-1. Item 1
-   * Item 1.1
+1. 程式碼
+   * Python
      ```Python
         >>> x
         Traceback (most recent call last):
@@ -30,7 +30,7 @@ __This text will be bold__
         'Justin'
         >>>
      ```
-   * Item 1.2
+   * Jave
      ``` Java
          public class MultiplyTwoNumbers
          {
