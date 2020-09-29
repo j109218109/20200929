@@ -23,9 +23,11 @@ __This text will be bold__
    * Item 2.1
    * Item 2.2
  
- ![Google](googlelogo_color_272x92dp.png)
+ ![Google](googlelogo_color_272x92dp.png"Google")
  
  \*As Kayne West said\*
  
  >We're living the future so 
  >the present is our past
+ 
+
