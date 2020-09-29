@@ -1,5 +1,5 @@
 
-![Google](googlelogo_color_272x92dp.png "Google")
+![Google](googlelogo_color_272x92dp.png "Google" )
 # 20200929
 ## 要怎麼用
 ### 才能把
@@ -11,8 +11,6 @@
 |*This text will be italic*|**This text will be bold**|
 |_This text will be italic_|__This text will be bold__|
 |*This is **a** test* :smile:|:star:|
-
-
 
 1. 程式碼
    * Python
@@ -54,7 +52,6 @@
              - [ ] 晚餐吃了
            * Item 2.2
       ```
-     
 2. Item 2
    * Item 2.1 
      - [x] 非常塞車
@@ -62,17 +59,8 @@
      
    * Item 2.2
 
- 
- ![Google](googlelogo_color_272x92dp.png "Google")
- 
 # \*As Kayne West said\*
  
  >We're living the future so 
  >the present is our past
-# 
-
-
-
-
-
 
