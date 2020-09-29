@@ -30,6 +30,7 @@ public class MultiplyTwoNumbers {
         System.out.println("The product is: " + product);
     }
 }
+```
    * Item 1.2
   
 2. Item 2
