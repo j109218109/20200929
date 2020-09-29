@@ -8,9 +8,9 @@
 |:-------|:----:|
 |*This text will be italic*|**This text will be bold**|
 |_This text will be italic_|__This text will be bold__|
-|:smile:|:star:|
+|*This is **a** test* :smile:|:star:|
 
-*This is **a** test*
+
 
 1. 程式碼
    * Python
