@@ -25,7 +25,7 @@ __This text will be bold__
  
  ![Google](googlelogo_color_272x92dp.png)
  
- As Kayne West said
+ \*As Kayne West said\*
  
  >We're living the future so 
  >the present is our past
